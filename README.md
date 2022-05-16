@@ -1,7 +1,7 @@
 # 「ゆっくり茶番劇」商標登録騒動データベース
+**サイト：https://save-the-yukkuri.github.io/Yukkuri-Chabangeki-Soudou-Database/**<br>
 ## 概要
 「ゆっくり茶番劇」商標登録騒動に関連する情報を整理し記録します。<br>
-リンク：https://save-the-yukkuri.github.io/Yukkuri-Chabangeki-Soudou-Database/<br>
 ## お願い
 確実な更新は約束できないため、時間的に余裕のある方がリポジトリをforkして更新を続けて下さると大変助かります。<br>
 出来事と柚葉氏の素性に関する情報を記録する方向でお願いします。
